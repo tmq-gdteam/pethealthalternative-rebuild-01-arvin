@@ -44,6 +44,7 @@
   --text-body: clamp(1rem, 1.25vw, 1.0625rem);
   --text-caption: clamp(0.8125rem, 1vw, 0.9rem);
   --text-label: clamp(0.7rem, 0.9vw, 0.8rem);
+  --text-logo: clamp(1.05rem, 1.5vw, 1.2rem);
 
   /* Radius */
   --radius-sm: 8px;
